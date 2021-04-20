@@ -2,7 +2,7 @@
 
 # Hi! I'm Guillermina 👋🏼
 
-### I'm a data scientist about to turn into a data engineer. 
+### I'm a data scientist interested in data engineering. 
 
 :pencil2:  I'm currently teaching myself **PySpark**, **Airflow**, and how to download, process, and transform data through the **command line**.
 
