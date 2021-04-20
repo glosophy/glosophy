@@ -18,6 +18,8 @@ I have experience:
 
 🧠  I'm also interested in **deep learning** models and how AI can help us humans navigate daily life.
 
+👩🏻 In my free time you'll find me at a box doing CrossFit, studying German/Dutch, or reading existentialist authors (aka Kafka, Camus, Dostoevsky).
+
 ![Bar-01](https://user-images.githubusercontent.com/42179447/115414398-fff6ef80-a1c3-11eb-93d4-2d66304be362.png)
 
 ## Let's get in touch!
