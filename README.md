@@ -1,7 +1,11 @@
-# Hi! I'm Guillermina 👋
+![Bar-01](https://user-images.githubusercontent.com/42179447/115414398-fff6ef80-a1c3-11eb-93d4-2d66304be362.png)
 
-### I'm a data scientist interested in dataviz and machine learning. Recently I discovered I like data engineering, too. 
+# Hi! I'm Guillermina 👋🏼
 
-:computer: I'm currently teaching myself PySpark, Airflow, and how to download, process, and transform data through the command line.
+### I'm a data scientist about to turn into a data engineer. 
 
-I'm into design, too. And am a font aficionado.
+:pencil2: I'm currently teaching myself **PySpark**, **Airflow**, and how to download, process, and transform data through the **command line**.
+
+:bar_chart: I have also dedicated the past three years of my life to communicating complex ideas through insightful **data visualizations**.
+
+🧠 I'm also interested in **deep learning** models and how AI can help us humans navigate daily life.
