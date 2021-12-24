@@ -4,7 +4,7 @@
 
 ### I'm a data scientist interested in dataviz and data engineering. 
 
-:pencil2:  I'm currently teaching myself **PySpark**, **Airflow**, and how to download, process, and transform data through the **command line**.
+:pencil2:  I'm currently teaching myself **d3.js**.
 
 
 I have experience:
@@ -18,7 +18,7 @@ I have experience:
 
 🧠  I'm also interested in **deep learning** models and how AI can help us humans navigate daily life.
 
-👩🏻 In my free time you'll find me at a box doing CrossFit, studying German/Dutch, or listening to podcasts and Jordan B. Peterson's lectures.
+👩🏻 In my free time you'll find me at a box doing CrossFit, studying German/Dutch, playing the cello or listening to podcasts.
 
 🔒 Blockchain, crypto, and open source technology are the future.
 
