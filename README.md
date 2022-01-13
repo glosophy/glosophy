@@ -14,7 +14,7 @@ I have experience:
 - data mining
 - statistical analysis tools
 
-:bar_chart:  I have also dedicated the past three years of my life to communicating complex ideas through insightful **data visualizations**.
+:bar_chart:  I have also dedicated the past five years of my life to communicating complex ideas through insightful **data visualizations**.
 
 🧠  I'm also interested in **deep learning** models and how AI can help us humans navigate daily life.
 
