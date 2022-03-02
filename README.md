@@ -1,6 +1,6 @@
 ![Bar-01](https://user-images.githubusercontent.com/42179447/115414398-fff6ef80-a1c3-11eb-93d4-2d66304be362.png)
 
-# Hi! I'm Guillermina 👋🏼
+# Hi! I'm Guillermina 👋🏼 
 
 ### I'm a data scientist interested in dataviz and data engineering. 
 
