@@ -4,7 +4,7 @@
 
 ### I'm a data scientist interested in dataviz and data engineering.
 
-:pencil2:  I'm currently teaching myself **d3.js** and **p5.js**. 
+:pencil2:  I'm currently teaching myself **[d3.js](https://github.com/glosophy/d3)** and **p5.js**. 
 
 
 I have experience:
