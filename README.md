@@ -12,7 +12,6 @@ I have experience:
 - building machine learning models (classification, regression, and clustering)
 - time series modeling and forecasting
 - data mining
-- statistical analysis tools
 
 :bar_chart:  I have also dedicated the past five years of my life to communicating complex ideas through insightful **data visualizations**. You can check out my talks on data visualization [here](https://github.com/glosophy/DataVizTalks).
 
@@ -25,6 +24,6 @@ I have experience:
 ![Bar-01](https://user-images.githubusercontent.com/42179447/115414398-fff6ef80-a1c3-11eb-93d4-2d66304be362.png)
 
 ## Let's get in touch!
-:star: [Twitter](https://twitter.com/gsutters) :star: [Behance](https://www.behance.net/gsutters) :star: [Website](https://www.glosophy.org/)
+:star: [Twitter](https://twitter.com/gsutters) :star: [Behance](https://www.behance.net/gsutters) :star: [Website](https://www.glosophy.org/) :star:
 
 ![Bar-01](https://user-images.githubusercontent.com/42179447/115414398-fff6ef80-a1c3-11eb-93d4-2d66304be362.png)
