@@ -25,11 +25,6 @@ I have experience:
 ![Bar-01](https://user-images.githubusercontent.com/42179447/115414398-fff6ef80-a1c3-11eb-93d4-2d66304be362.png)
 
 ## Let's get in touch!
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gsutterschneider/)
-[![behance](https://img.shields.io/badge/Behance-053eff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/gsutters)
-
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glosophy&langs_count=5&hide=javascript,html,css&theme=graywhite&layout=compact&custom_title=Languages&card_width=260">
-</a>
+:star: [Twitter](https://twitter.com/gsutters) :star: [Behance](https://www.behance.net/gsutters) :star: [Website](https://www.glosophy.org/)
 
 ![Bar-01](https://user-images.githubusercontent.com/42179447/115414398-fff6ef80-a1c3-11eb-93d4-2d66304be362.png)
