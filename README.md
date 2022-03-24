@@ -2,7 +2,7 @@
 
 # Hi! I'm Guillermina 👋🏼 
 
-### I'm a data scientist interested in dataviz and data engineering.
+### I'm a data scientist interested in dataviz and creative coding.
 
 :pencil2:  I'm currently teaching myself **[d3.js](https://github.com/glosophy/d3)** and **[Processing](https://github.com/glosophy/processing)** / **[P5.js](https://github.com/glosophy/processing)**. 
 
