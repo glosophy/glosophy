@@ -24,6 +24,6 @@ I have experience:
 ![Bar-01](https://user-images.githubusercontent.com/42179447/115414398-fff6ef80-a1c3-11eb-93d4-2d66304be362.png)
 
 ## Let's get in touch!
-:star: [Twitter](https://twitter.com/gsutters) :star: [Behance](https://www.behance.net/gsutters) :star: [Website](https://www.glosophy.org/) :star:
+:star: [Twitter](https://twitter.com/gsutters) :star: [Behance](https://www.behance.net/gsutters) :star: [Website](https://thegspot.io/) :star:
 
 ![Bar-01](https://user-images.githubusercontent.com/42179447/115414398-fff6ef80-a1c3-11eb-93d4-2d66304be362.png)
