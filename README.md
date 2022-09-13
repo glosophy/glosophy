@@ -17,7 +17,7 @@ I have experience:
 
 🧠  I'm also interested in **deep learning** models and how AI can help us humans navigate daily life.
 
-👩🏻 In my free time you'll find me at a box doing CrossFit, studying German/Dutch, playing the cello or listening to podcasts.
+👩🏻 In my free time you'll find me at a box doing CrossFit, studying German/Dutch, or listening to podcasts.
 
 🔒 Blockchain, crypto, and open source technology are the future.
 
