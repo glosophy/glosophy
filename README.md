@@ -6,14 +6,7 @@
 
 :pencil2:  I'm currently teaching myself **[javascript](https://github.com/glosophy/d3)** and **[Processing](https://github.com/glosophy/processing)** / **[P5.js](https://github.com/glosophy/processing)**. 
 
-
-I have experience:
-- querying data
-- building machine learning models (classification, regression, and clustering)
-- time series modeling and forecasting
-- data mining
-
-:bar_chart:  I have also dedicated the past five years of my life to communicating complex ideas through insightful **data visualizations**. You can check out my talks on data visualization [here](https://github.com/glosophy/DataVizTalks).
+:bar_chart:  I have also dedicated the past six years of my life to communicating complex ideas through **data visualizations**. You can check out my talks on data visualization [here](https://github.com/glosophy/DataVizTalks).
 
 🧠  I'm also interested in **deep learning** models and how AI can help us humans navigate daily life.
 
